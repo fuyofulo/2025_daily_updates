@@ -1,0 +1,3 @@
+Workout done
+GRE prep for a few hours
+Leetcode in C: problem 9. Palindrome Number
